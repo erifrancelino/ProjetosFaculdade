@@ -57,9 +57,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em pr
 
 Este repositório faz parte da minha trajetória de formação e do desenvolvimento do meu portfólio profissional.
 
-## 📬 Contato
-
-- **GitHub:** [Meu perfil](https://github.com/SEU-USUARIO)
 
 ---
 
